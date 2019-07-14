@@ -1,8 +1,19 @@
 ﻿# NodeTypeScript
+ 
 ## Starter Node.js app using TypeScript
+I don't like to mess with setup everytime I need to prototype or test a new idea. So I keep this simple Node.js project handy, setup with Typescript, as well as Mocha Chai for the test runner.
 
-# Install dependencies `npm install`
-# Run test with `npm test`
+Also an example test is provided in the test folder.
 
-# Using Mocha Chai for Test
+## Install dependencies 
+You will need Node.js installed on your machine. That is the only prerequsite.
+
+Then run `npm i` to insall all local dependencies needed.
+
+## Package Scripts
+Start: `npm start`
+
+Build: `npm run build`
+
+Tests: `npm run test`
 
