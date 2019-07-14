@@ -6,9 +6,9 @@ I don't like to mess with setup everytime I need to prototype or test a new idea
 Also an example test is provided in the test folder.
 
 ## Install dependencies 
-You will need [Node.js](https://nodejs.org) installed on your machine. That is the only prerequsite.
+You will need [Node.js](https://nodejs.org) installed on your machine. That is the only prerequisite.
 
-Then run `npm i` to insall all local dependencies needed.
+Then run `npm i` to install all local dependencies needed.
 
 ## Package Scripts
 Start: `npm start`
